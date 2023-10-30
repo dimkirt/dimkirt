@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
 **dimkirt/dimkirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I'm a seasoned Senior Software Engineer with a passion for empowering startups to build exceptional products users love. With over a decade in programming and 5+ years in the industry, I specialize in Backend and Cloud Development, using a tech stack that includes Node.js, Typescript, PostgreSQL, GCP, and Terraform. While some might label me as a Backend, Cloud, or DevOps Engineer, I see myself as a 'Problem Solver.' I believe in the power of empowered product teams, user-centricity, and that quality equates to speed in product delivery. If you value collaboration, autonomy, and user-driven product discovery as much as I do, let's chat about your technical challenges!
