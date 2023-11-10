@@ -8,6 +8,6 @@ Hi I’m Dimi!
 
 Interested to work in: eMobility, Clean Tech, Climate Tech industries
 
-Are trying to make the world a better place? 🌿⚡☀️
+Are you trying to make the world a better place? 🌿⚡☀️
 
 Let’s get it done! 💪
