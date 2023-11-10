@@ -1,17 +1,13 @@
-### Welcome 👋
+Hi I’m Dimi!
 
-<!--
-**dimkirt/dimkirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Senior Software Engineer, ex-Tech Lead
+- Over a decade of programming experience and 6 years of professional SWE experience
+- Deep expertise in eMobility (eRoaming, charging protocols, OCPI, OICP, Plug&Charge)
+- Backend Engineer with strong Cloud expertise
+- Tech Stack: Node, Javascript, Typescript, PostgreSQL, GCP, and Terraform
 
-Here are some ideas to get you started:
+Interested to work in: eMobility, Clean Tech, Climate Tech industries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hello! I'm a seasoned Senior Software Engineer with a passion for empowering startups to build exceptional products users love. With over a decade in programming and 5+ years in the industry, I specialize in Backend and Cloud Development, using a tech stack that includes Node.js, Typescript, PostgreSQL, GCP, and Terraform. While some might label me as a Backend, Cloud, or DevOps Engineer, I see myself as a 'Problem Solver.' I believe in the power of empowered product teams, user-centricity, and that quality equates to speed in product delivery. If you value collaboration, autonomy, and user-driven product discovery as much as I do, let's chat about your technical challenges!
+Are trying to make the world a better place? 🌿⚡☀️
+
+Let’s get it done! 💪
