@@ -1,7 +1,3 @@
-Hi I’m Dimi!
-- ex-Staff Software Engineer, ex-Tech Lead, currently working on building a startup
-- Over a decade of programming experience and 6+ years of professional SWE experience
-- Deep expertise in Backend Development, Databases and all things Cloud
-- Deep expertise in eMobility (eRoaming, charging protocols, OCPI, OICP, Plug&Charge)
-
-- Tech Stack: Node, Javascript, Typescript, Python, PostgreSQL, GCP, and Terraform or whatever else the job requires
+Senior Software Engineer, ex-Tech Lead with 10+ years of programming experience and over 6 years of professional experience as a Software Engineer in different startups and a VW scaleup.
+MSc in Electrical & Computer Engineering.
+Currently, building a startup in the Space industry 🛰️🌍
