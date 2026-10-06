@@ -1,6 +1,6 @@
 ### Hi, I'm Dimitris 👋
 
-**CTO at [Riverkin](https://www.riverkin.com)**, building flash flood early warning for small streams: satellite-connected river sensors and AI models that tell hydropower operators and first responders, hours ahead, whether the forecasted rain will turn into a flood.
+**CTO at [Riverkin](https://www.riverkin.com)**, building flash flood early warning for small streams: satellite-connected river sensors and AI models that tell hydropower operators, hours ahead, whether the forecasted rain will turn into a flood.
 
 Before that I co-founded **LYRASENSE** and was its CTO. We built an agentic AI platform for geospatial intelligence, backed by the European Space Agency and Seraphim Space, with pilot customers including Aramco and Telefónica. Earlier, **Tech Lead at [Elli (Volkswagen Group)](https://www.elli.eco/)**, where I helped build the backend of what is today Europe's largest EV charging network (1M+ stations).
 
